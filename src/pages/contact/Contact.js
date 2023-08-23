@@ -18,7 +18,7 @@ const Contact = () => {
           <div className={styles.details}>
             <Card cardClass={styles.card2}>
               <h3>Our Contact Information</h3>
-              <p>Fill the form or contact us via other channels listed below</p>
+              
               <div className={styles.icons}>
                 <span>
                   <FaPhoneAlt />
@@ -26,15 +26,15 @@ const Contact = () => {
                 </span>
                 <span>
                   <FaEnvelope />
-                  <p>Support@eshop.com</p>
+                  <p>Support@avidreader.com</p>
                 </span>
                 <span>
                   <GoLocation />
-                  <p>Abuja, Nigeria</p>
+                  <p>Delhi ,India</p>
                 </span>
                 <span>
                   <FaTwitter />
-                  <p>@ZinoTrust</p>
+                  <p>@avidReader99</p>
                 </span>
               </div>
             </Card>
